@@ -66,7 +66,7 @@ bcrypt==4.1.1 or bcrypt==4.0.1
 }
 ```
 
-## d. Execute automatic backup script
+## D. Execute automatic backup script
 
 ```bash
 python3 PVE_VM_BACKUP_UPLOAD_MINIO.py
