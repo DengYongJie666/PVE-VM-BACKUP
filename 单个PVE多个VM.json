@@ -1,0 +1,19 @@
+{
+    "pve_url": "https://IP:8006/api2/json",
+    "username": "root@pam",
+    "password": "password",
+    "backups": [
+        {
+            "node": "hostname",
+            "ids": [116, 9003, 9004],
+            "ip": "IP"
+        }
+    "pve_username": "root",
+    "pve_password": "password",
+    "minio_endpoint": "https://my.domain.com",
+    "minio_access_key": "access_key",
+    "minio_secret_key": "secret_key",
+    "minio_bucket_name": "pvc-c-common",
+    "minio_region": "ssd-d1"
+}
+

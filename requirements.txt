@@ -1,0 +1,7 @@
+requests
+urllib3
+boto3
+paramiko==3.5.0
+bcrypt==4.1.1
+scp
+tqdm
